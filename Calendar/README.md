@@ -1,1 +1,2 @@
-R
+The page is created with one simple html index file styled with css and the changes are made using javascript so the application runs in single page.
+When loaded you will see a table with years from 2020 to 2023 to chose from. After click on chosen year the view changes to that year's months. If you want you can go back to years view by clicking on year text at table header. After click on chosen month the view changes to that month's days. Again if you wish to go back you can click on month name at the table header.
